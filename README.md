@@ -1,6 +1,6 @@
 # platformchannels
 
-A test project for test MethodChannel and EventChannel of Flutter.
+A project for test MethodChannel and EventChannel of Flutter.
 Only tested on Android with Kotlin.
 
 ## Reference
